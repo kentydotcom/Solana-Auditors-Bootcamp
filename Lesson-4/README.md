@@ -2,7 +2,7 @@
 
 
 > [!IMPORTANT]
-> For more details about the Trident, check the Trident documentation [Tridetn docs](https://ackee.xyz/trident/docs/latest/)
+> For more details about the Trident, check the Trident documentation [Trident docs](https://ackee.xyz/trident/docs/latest/)
 
 > [!IMPORTANT]
 > Check the Part I of Fuzzing with Trident for more better introduction into Fuzzing [Fuzzing with Trident I](../Lesson-3/)
